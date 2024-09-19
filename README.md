@@ -1,18 +1,33 @@
-# Getting Started with Create React App
+# **Project Name : - Travel Yaari**
 
+   ![](https://img.shields.io/badge/MongoDB-4.2.13-003300?style=flat-circle&logo=MongoDB)
+   ![](https://img.shields.io/badge/ExpressJS-4.17.1-000000?style=flat-circle&logo=Express)
+   ![](https://img.shields.io/badge/React-17.0.1-87CEEB?style=flat-circle&logo=react&logoColor=309698)
+   ![](https://img.shields.io/badge/NodeJS-16.0.0-009900?style=flat-circle&logo=node.js)
+   ![](https://img.shields.io/npm/v/npm.svg?logo=npm)
+   ![](https://img.shields.io/github/license/shsarv/TravelYaari-react?style=flat-circle)
+   ![](https://img.shields.io/github/repo-size/shsarv/TravelYaari-react)
+   ![](https://img.shields.io/tokei/lines/github/shsarv/TravelYaari-react?color=orange&logoColor=blue&style=flat-circle)
+
+This Project is live at --------> **[https://travelyaari.herokuapp.com](https://travelyaari.herokuapp.com)**
+
+
+<hr />
+
+      
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<details><summary>Available Scripts</summary>
 
-In the project directory, you can run:
-
-### `npm start`
+  In the project directory, you can run:
+  
+  ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
 ### `npm test`
 
@@ -23,48 +38,56 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
-
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information. 
+</details>    
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<strong>Overview: -</strong>
 
-### `npm run eject`
+ TravelYaari presents a mesmerizing, fully featured travel website that awakens the travel enthusiast within. Vibrant imagery, expertly curated destination highlights, and seamless booking experiences within your budget will leave you spellbound. Enjoy personalized customer support, flexible payment options, and tailored booking schedules that fit your lifestyle. Immerse yourself in captivating virtual tours through stunning videos and images, making your dream getaway an unforgettable reality.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<strong>PROBLEM STATEMENT :-</strong>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Travel enthusiasts worldwide face the daunting challenge of discovering the perfect destinations, often struggling to find the crème de la crème of places to visit. Our innovative travel website solves this problem by showcasing an unparalleled selection of top-tier destinations, expertly curated to make your travel dreams accessible and stress-free.   
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<strong>OBJECTIVE:-</strong>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Our mission is to craft an exceptional, cutting-edge travel website using advanced MERN STACK technologies, delivering: Unforgettable, on-time, and budget-friendly excursions that exceed your wildest dreams Enthusiastically satisfied customers, every time, without exception
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<strong>FEATURES:-</strong><img src="https://www.flaticon.com/svg/static/icons/svg/2643/2643513.svg" width="24px">
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Wishlist Cart: Collect and cherish your favorite destinations
+- Place Pagination: Effortlessly explore, discover, and get lost in new places
+- User Profile: Manage your bookings, preferences, and travel journal
+- Admin Features:
+    - Place Management: Curate, update, and showcase destination listings
+    - User Management: Monitor, support, and delight registered users
+    - Booked Order Details: Track, manage, and perfect bookings
+    - Mark Booking Orders: Stay organized, on top of bookings, and in control
+- Checkout Process: Streamlined, secure, and hassle-free shipping and payment options
+- Payment Integration: Robust, reliable, and trusted PayPal and credit card transactions
+- Database: Rock-solid storage for places and user data, ensuring seamless performance
+    
 
-### Code Splitting
+**TECHNOLOGIES :-**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" title="MongoDB"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" title="ExpressJS"></code>
+ <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" title="React"></code>
+ <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" title="NodeJS"></code>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### How to run the project 🚀:
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  1. Open the `Terminal`.
+  2. Clone the repository by entering `$ git clone https://github.com/shsarv/TravelYaari-react.git `.
+  3. Ensure that `NodeJS` and `npm` are installed on the system.
+  4. change the diectory to repository name using  `$ cd TravelYaari-react`.
+  4. Create a `.env` file and write `REACT_APP_API_URL='your backend api url'`. look for backend of the project [here](https://github.com/shsarv/TravelYaari-api).
+  5. install the dependencies by executing the follwing command: `$ npm install` or `$ npm install --openssl-legacy-provide` for base support.
+  6. To run the React project. execute `$npm start`. and it will point to the `localhost` server with the port `3000`.
+  8. Enter the `IP Address: http://localhost:3000` on a web browser and use the application. make sure that your backend api is running.
